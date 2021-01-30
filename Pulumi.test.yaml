@@ -1,0 +1,5 @@
+config:
+  gcp:project: behaviorify-api
+  gcp:region: europe-west1
+  ts:apiKey:
+    secure: AAABAMUwGW0DCJBUs61lUTt6fgUslvKBjPJdUAajXD20cwyCRZdZD3iRo47CeN6tBkuNZl5ucbfwCc8zaVpuzinZ/E+6BpPT
