@@ -1,3 +1,6 @@
 name: ts
-runtime: nodejs
 description: A minimal TypeScript Pulumi program
+runtime:
+  name: nodejs
+  options:
+    typescript: false
